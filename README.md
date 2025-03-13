@@ -1,7 +1,21 @@
-Bis na CCXP Project
+# Bis na CCXP Project
 
-This is the game that was playable during the Bis Na CCXP promotion for Mondelez, which aired from October to December 2023.
+Bis na CCXP is the game that was playable during Mondelez's Comic-Con Experience promotion, which aired from October to December 2023.
 
-It can be played at this [Link](https://antoniocrorusso.github.io/BisNaCCXP/) on PC or Mobile Phones.
+| :placard:  |  Information   |
+| -------------  | --- |
+| :sparkles: Name        | **Bis na CCXP** |
+| :label: Tech | Unity, C#, HTML, CSS, Javascript |
+| :rocket: Deploy URL         | [Link](https://antoniocrorusso.github.io/BisNaCCXP/) |
+| :fire: Other info     | The project was made using Unity and the WebGL package </br> with custom Javascript code using Jlibs on Unity |
 
-The project was made using Unity and the WebGL package, with custom Javascript code using Jlibs on Unity.
+## Project Details
+
+- This game can be played on PC or Mobile Phones.
+- It includes three games: Pong, Space Invaders, and a reimagination of Tetris.
+
+## Copyright Notice
+- All images used on this game are owned by Mondelez International.
+- No reproduction, distribution, or copying of any kind is permitted under any circumstances.
+- You are not permitted to copy, modify, distribute, or create derivative works based on this content, in any medium or format.
+- This repository is for showcase purposes only.
