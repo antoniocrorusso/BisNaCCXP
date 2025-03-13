@@ -15,7 +15,6 @@ Bis na CCXP is the game that was playable during Mondelez's Comic-Con Experience
 - It includes three games: Pong, Space Invaders, and a reimagination of Tetris.
 
 ## Copyright Notice
-- All product/brands used on this game are owned by Mondelez International.
+- See License file.
 - No reproduction, distribution, or copying of any kind is permitted under any circumstances.
 - You are not permitted to copy, modify, distribute, or create derivative works based on this content, in any medium or format.
-- This repository is for showcase purposes only.
